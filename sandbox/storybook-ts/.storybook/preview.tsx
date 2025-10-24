@@ -1,6 +1,6 @@
 import { ChakraProvider, createSystem, defaultConfig } from "@chakra-ui/react"
 import { withThemeByClassName } from "@storybook/addon-themes"
-import type { Preview, ReactRenderer } from "@storybook/react"
+import type { Preview, ReactRenderer } from "@storybook/react-vite"
 
 const system = createSystem(defaultConfig, {
   theme: {
