@@ -14,6 +14,11 @@ const config: StorybookConfig = {
   typescript: {
     reactDocgen: false,
   },
+
+  features: {
+    experimentalCodeExamples: true,
+    experimentalComponentsManifest: true,
+  },
 }
 
 export default config
