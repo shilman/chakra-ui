@@ -20,10 +20,10 @@
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
     "@chakra-ui/react": "workspace:*",
-    "@storybook/addon-links": "10.3.0-alpha.5",
-    "@storybook/addon-themes": "10.3.0-alpha.5",
-    "@storybook/react-vite": "10.3.0-alpha.5",
-    "storybook": "10.3.0-alpha.5",
-    "eslint-plugin-storybook": "10.3.0-alpha.5"
+    "@storybook/addon-links": "0.0.0-pr-33818-sha-2329686a",
+    "@storybook/addon-themes": "0.0.0-pr-33818-sha-2329686a",
+    "@storybook/react-vite": "0.0.0-pr-33818-sha-2329686a",
+    "storybook": "0.0.0-pr-33818-sha-2329686a",
+    "eslint-plugin-storybook": "0.0.0-pr-33818-sha-2329686a"
   }
 }
